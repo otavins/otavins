@@ -10,7 +10,7 @@
             
 <body>
     <section>
-        <h1>👋 Olá, seja bem vindo!. Me chamo Otávio, mais conhecido como Tavin. </h1>
+        <h1>👋 Olá, seja bem vindo! Me chamo Otávio, mais conhecido como Tavin. </h1>
         <p>Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨‍💻. Gosto de assistir filmes, séries e ouvir músicas. Também gosto de comer bastante cuscuz< principalmente com carne do sol. E no futuro pretendo ser analise e desenvolvimento de sistemas. </p>
 
     
