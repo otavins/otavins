@@ -42,11 +42,11 @@
 
   <h2>📊 Estatísticas do GitHub</h2>
         <p>Acompanhe minhas contribuições e atividades:</p>
-        <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSousa7&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 100%; max-width: 500px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=otavins&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 100%; max-width: 500px;">
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSousa7&theme=radical" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavins&theme=radical" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSousa7&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavins&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">
 
   <h2>📬 Contatos</h2>
         <div class="social-links">
