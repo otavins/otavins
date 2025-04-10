@@ -17,7 +17,6 @@
  -😋 gosto de comer bastante cuscuz principalmente com carne do sol. 
  
  -🎧 séries e ouvir músicas. 
- -🎥 Gosto de assistir filmes e séries.
 
 -🎵 Curto muito ouvir músicas, preferências em (trap, funk e pagode) 
 
