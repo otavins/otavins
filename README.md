@@ -11,23 +11,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
 </head>
-            
-<body>
-    <section>
-        <h1>👋🏼 Olá, seja bem vindo! Me chamo Otávio, mais conhecido como Tavin. </h1>
-        <p>Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨‍💻. 
-                -🎥 Gosto de assistir filmes e séries. 
-                -🎧 séries e ouvir músicas. 
-                -😋 gosto de comer bastante cuscuz principalmente com carne do sol. 
-
-       
-
-<body>
-    <section>
-        <h1>👋🏼 Salve, Umas coisas cobre mim! </h1>
+   <h1>👋🏼 Salve, Umas coisa sobre mim! </h1>
         <p> Me chamo <strong> Otávio </strong> mais conhecido como <strong> Tavin! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Maranguape! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
             
-
+ -😋 gosto de comer bastante cuscuz principalmente com carne do sol. 
+ 
+ -🎧 séries e ouvir músicas. 
+ -🎥 Gosto de assistir filmes e séries.
 
 -🎵 Curto muito ouvir músicas, preferências em (trap, funk e pagode) 
 
