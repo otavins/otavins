@@ -21,7 +21,24 @@
                 -😋 gosto de comer bastante cuscuz principalmente com carne do sol. 
 
        
-        
+
+<body>
+    <section>
+        <h1>👋🏼 Salve, Umas coisas cobre mim! </h1>
+        <p> Me chamo <strong> Otávio </strong> mais conhecido como <strong> Tavin! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Maranguape! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
+            
+
+
+-🎵 Curto muito ouvir músicas, preferências em (trap, funk e pagode) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
+
+-☕️ Café com Leite é meu combustível oficial.
+
+-💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
+
+-💤 Durmo bastante, principalmente nos finais de samana.
+
+-😅 Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
+    
 # 👨‍💻 Essas são algumas das Liguagem e Tecnologias que eu uso ou ja usei:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00008B)
@@ -47,37 +64,6 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-                    
-<body>
-    <section>
-        <h1>👋🏼 Salve, Umas coisas cobre mim! </h1>
-        <p> Me chamo <strong> Otávio </strong> mais conhecido como <strong> Tavin! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Maranguape! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
-            
-
-
--🎵 Curto muito ouvir músicas, preferências em (trap, funk e pagode) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
-
--☕️ Café com Leite é meu combustível oficial.
-
--💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
-
--💤 Durmo bastante, principalmente nos finais de samana.
-
--😅 Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
-    
-
-
-
-
-
-  <h2>📊 Estatísticas do GitHub</h2>
-        <p>Acompanhe minhas contribuições e atividades:</p>
-        <img src="https://github-readme-stats.vercel.app/api?username=otavins&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 100%; max-width: 500px;">
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavins&theme=radical" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavins&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">
-
   <h2>📬 Contatos</h2>
         <div class="social-links">
             <a href="https://github.com/otavins" target="_blank">
@@ -92,6 +78,18 @@
         </div>
     </section>
 </body>
+
+
+
+  <h2>📊 Estatísticas do GitHub</h2>
+        <p>Acompanhe minhas contribuições e atividades:</p>
+        <img src="https://github-readme-stats.vercel.app/api?username=otavins&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 100%; max-width: 500px;">
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavins&theme=radical" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
+        <br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavins&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">
+
+ 
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
