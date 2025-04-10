@@ -39,7 +39,7 @@
 
 -😅 Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
     
-# 👨‍💻 Essas são algumas das Liguagem e Tecnologias que eu uso ou ja usei:
+# 👨‍💻 Essas são algumas das Liguagem que eu uso ou ja usei:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00008B)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=A52A2A)
