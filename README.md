@@ -28,7 +28,7 @@
             
 
 
--🎵 Curto muito ouvir músicas, preferências em (trap, funk e sertanejo) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
+-🎵 Curto muito ouvir músicas, preferências em (trap, funk e pagode) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
 
 -☕️ Café com Leite é meu combustível oficial.
 
