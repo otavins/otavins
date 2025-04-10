@@ -10,10 +10,32 @@
             
 <body>
     <section>
-        <h1>👋 Olá, seja bem vindo! Me chamo Otávio, mais conhecido como Tavin. </h1>
-        <p>Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨‍💻. Gosto de assistir filmes, séries e ouvir músicas. Também gosto de comer bastante cuscuz< principalmente com carne do sol. E no futuro pretendo ser analise e desenvolvimento de sistemas. </p>
+        <h1>👋🏼 Olá, seja bem vindo! Me chamo Otávio, mais conhecido como Tavin. </h1>
+        <p>Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨‍💻. 
+                -🎥 Gosto de assistir filmes e séries. 
+                -🎧 séries e ouvir músicas. 
+                -😋 gosto de comer bastante cuscuz principalmente com carne do sol. 
+                -👨‍💻 E no futuro pretendo ser analise e desenvolvimento de sistemas. </p>
+                    
+<body>
+    <section>
+        <h1>👋🏼 Salve, Umas coisas cobre mim! </h1>
+        <p> Me chamo <strong> Otávio </strong> mais conhecido como <strong> Tavin! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Maranguape! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
+            
 
+
+-🎵 Curto muito ouvir músicas, preferências em (trap, funk e sertanejo) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
+
+-☕️ Café com Leite é meu combustível oficial.
+
+-💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
+
+-💤 Durmo bastante, principalmente nos finais de samana.
+
+-😅 Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
     
+
+
 
 
   <h2>🛠️ Tecnologias</h2>
