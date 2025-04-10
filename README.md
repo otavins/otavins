@@ -1,4 +1,8 @@
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+
 # Olá! Eu Sou Otávio 🙋‍♂️
+
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -84,3 +88,13 @@
         </div>
     </section>
 </body>
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rfahham}/count.svg" /></p> 
+  <br>
+</div>
+
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
