@@ -75,15 +75,6 @@
 
 
 
-  <h2>📊 Estatísticas do GitHub</h2>
-        <p>Acompanhe minhas contribuições e atividades:</p>
-        <img src="https://github-readme-stats.vercel.app/api?username=otavins&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 100%; max-width: 500px;">
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavins&theme=radical" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavins&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">
-
- 
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
