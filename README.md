@@ -11,24 +11,24 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
 </head>
-   <h1>👋🏼 Salve, Umas coisa sobre mim! </h1>
+   <h1>👋🏼 Salve, algumas coisas sobre mim! </h1>
         <p> Me chamo <strong> Otávio </strong> mais conhecido como <strong> Tavin! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Maranguape! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
             
- -😋 gosto de comer bastante cuscuz principalmente com carne do sol. 
+ -😋 Gosto de comer bastante cuscuz principalmente com carne do sol. 
  
- -🎧 séries e ouvir músicas. 
+ -🎧 Gosto de ouvir músicas. 
 
--🎵 Curto muito ouvir músicas, preferências em (trap, funk e pagode) 
+-🎵 Curto muito ouvir músicas, preferências em trap, funk e pagode. 
 
--🎥 gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
+-🎥 Gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
 
--☕️ Café com Leite é meu combustível oficial.
+-☕️ Café com leite é meu combustível oficial.
 
 -💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
 
--💤 Durmo bastante, principalmente nos finais de samana.
+-💤 Durmo bastante, principalmente nos finais de semana.
 
--😅 Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
+-😅 Sou um carinha meio complicado de lidar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
     
 # 👨‍💻 Essas são algumas das Liguagem que eu uso ou ja usei:
 
