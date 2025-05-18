@@ -60,7 +60,7 @@
             <a href="https://github.com/otavins" target="_blank">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Meu perfil no GitHub">
             </a>
-            <a href="mailto:otaviosousaa@aluno.ifce.edu.br">
+            <a href="mailto:otaviosousa@aluno.ifce.edu.br">
                 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail - Envie um e-mail para Victor">
             </a>
             <a href="https://www.instagram.com/otavio_sdsv/" target="_blank">
